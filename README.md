@@ -1,2 +1,2 @@
-# IMC2016
-The code written in IMC 2016 competition
+# IMMC2016
+The code written in IMMC 2016 competition
